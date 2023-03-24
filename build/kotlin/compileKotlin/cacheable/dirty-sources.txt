@@ -1,0 +1,8 @@
+C:\KotlinApps\coroutinIdea\src\main\kotlin\dto\Comment.kt
+C:\KotlinApps\coroutinIdea\src\main\kotlin\Main.kt
+C:\KotlinApps\coroutinIdea\src\main\kotlin\dto\ResultPost.kt
+C:\KotlinApps\coroutinIdea\src\main\kotlin\dto\AttachmentType.kt
+C:\KotlinApps\coroutinIdea\src\main\kotlin\dto\Author.kt
+C:\KotlinApps\coroutinIdea\src\main\kotlin\dto\CommentWithAuthor.kt
+C:\KotlinApps\coroutinIdea\src\main\kotlin\dto\Attachment.kt
+C:\KotlinApps\coroutinIdea\src\main\kotlin\dto\Post.kt
