@@ -19,7 +19,6 @@ private val client = OkHttpClient.Builder()
     })
     .connectTimeout(30, TimeUnit.SECONDS)
     .build()
-
 fun main() {
     with(CoroutineScope(EmptyCoroutineContext)) {
         launch {
